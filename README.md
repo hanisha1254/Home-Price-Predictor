@@ -9,7 +9,10 @@ The Project / Web App is built in Python using the Following Libraries:
  * flask
  * streamlit
  * json
-this Model / Project / Web app predicts the price of a Real Estate property / House on the basis of Features like: 
+
+
+
+# this Model / Project / Web app predicts the price of a Real Estate property / House on the basis of Features like: 
 
 * area_type 
 * location 
